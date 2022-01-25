@@ -1,16 +1,23 @@
-# green_cycle
-
+# Green_Pedal
 A new Flutter project.
+A bicycle rental application using-
+Cloud Firestore as database,
+Firebase_auth for authentication,
+Google map api for showing G-map,
+Barcode_scan2 for QR code scanner.
 
-## Getting Started
+## Screengrabs
+1. Home Screen
 
-This project is a starting point for a Flutter application.
+![Home Screen](https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/HomeScreen.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+2. Header View
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Header View](https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/HeaderView.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Component View
+
+![Component View](https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/ComponentView.jpeg)
+
+
+
