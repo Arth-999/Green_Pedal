@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1005459673500-6o5sdr1tqqj3q3kh1abtqh9vtojm238s.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1005459673500</string>
+    <string name="google_api_key" translatable="false">AIzaSyChMPjGY70COgXkGE8mX2Z9PCQoWQv81gQ</string>
+    <string name="google_app_id" translatable="false">1:1005459673500:android:e383098cb5885c9bfcf859</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyChMPjGY70COgXkGE8mX2Z9PCQoWQv81gQ</string>
+    <string name="google_storage_bucket" translatable="false">greenpedal-fe12c.appspot.com</string>
+    <string name="project_id" translatable="false">greenpedal-fe12c</string>
+</resources>

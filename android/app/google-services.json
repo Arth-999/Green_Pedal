@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005459673500",
+    "project_id": "greenpedal-fe12c",
+    "storage_bucket": "greenpedal-fe12c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005459673500:android:e383098cb5885c9bfcf859",
+        "android_client_info": {
+          "package_name": "com.example.green_cycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005459673500-6o5sdr1tqqj3q3kh1abtqh9vtojm238s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMPjGY70COgXkGE8mX2Z9PCQoWQv81gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005459673500-6o5sdr1tqqj3q3kh1abtqh9vtojm238s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
