@@ -8,6 +8,12 @@ A bicycle rental application built using-</br>
 3) Google map api for showing Google-map,</br>
 4) Barcode_scan2 for QR code scanner.</br>
 
+# Application overview
+After registration,the user is shown it's current location and can find the nearest bike rental station.On clicking the station marker, the user is provided
+with different bicycle options along with other details . The user can rent cycle after scanning a Qr-code . The drawer widget shows
+the current status of ride if it's active or not . Similarly for returning the cycle, user needs to scan the Qr-code once again.
+ All these function update database simultaneously.
+
 ## Screengrabs
 1. Home Screen
 
