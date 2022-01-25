@@ -14,7 +14,7 @@ with different bicycle options along with other details . The user can rent cycl
 the current status of ride if it's active or not . Similarly for returning the cycle, user needs to scan the Qr-code once again.
  All these function update database simultaneously.
 
-# Sample QR-CODE
+## Sample QR-CODE
 
 <img src='https://github.com/Arth-999/Green_Pedal/blob/main/Scr/sampleqrcode.png' width='100' />
 
