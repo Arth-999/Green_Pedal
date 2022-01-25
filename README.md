@@ -1,7 +1,7 @@
 # Green_Pedal
 A new Flutter project built from scratch.</br>
 
-A bicycle rental application using-</br>
+A bicycle rental application built using-</br>
 
 1) Cloud Firestore as database,</br>
 2) Firebase_auth for authentication,</br>
@@ -11,15 +11,27 @@ A bicycle rental application using-</br>
 ## Screengrabs
 1. Home Screen
 
-![Home Screen](https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/HomeScreen.jpeg)
+<img src="https://github.com/Arth-999/Green_Pedal/blob/main/Scr/17.jfif" width="300"  />
 
-2. Header View
+2. Registration/Login Page
 
-![Header View](https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/HeaderView.jpeg)
+<img src='https://github.com/Arth-999/Green_Pedal/blob/main/Scr/16.jfif' width='300' /> <img src='https://github.com/Arth-999/Green_Pedal/blob/main/Scr/18.jfif' width='300' />
+                                                                                
+3. Application Homepage     (Google Map)
 
-3. Component View
+<img src='https://github.com/Arth-999/Green_Pedal/blob/main/Scr/15.jfif' width='300' />
 
-![Component View](https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/ComponentView.jpeg)
+4. Bike-Station Details 
+
+<img src='https://github.com/Arth-999/Green_Pedal/blob/main/Scr/14.jfif' width='300' />
+
+5. Drawer Widget      (showing user name and trip detail)
+
+<img src='https://github.com/Arth-999/Green_Pedal/blob/main/Scr/13.jfif' width='300' />
+
+6. Scanner Page
+
+<img src='https://github.com/Arth-999/Green_Pedal/blob/main/Scr/12.jfif' width='300' />   <img src='https://github.com/Arth-999/Green_Pedal/blob/main/Scr/11.jpeg' width='300' />
 
 
 
