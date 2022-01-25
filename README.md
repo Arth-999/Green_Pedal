@@ -5,7 +5,7 @@ A bicycle rental application built using-</br>
 
 1) Cloud Firestore as database,</br>
 2) Firebase_auth for authentication,</br>
-3) Google map api for showing G-map,</br>
+3) Google map api for showing Google-map,</br>
 4) Barcode_scan2 for QR code scanner.</br>
 
 ## Screengrabs
